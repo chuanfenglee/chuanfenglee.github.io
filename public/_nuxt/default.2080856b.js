@@ -1,1 +1,0 @@
-import{a as s,o as _,b as c,f as t,w as o,r as l,h as r,e as n}from"./entry.3e49c55b.js";const u={},d=n("p",null,"Home",-1),f=n("p",null,"About",-1);function i(a,p){const e=r;return _(),c("div",null,[t(e,{to:"/"},{default:o(()=>[d]),_:1}),t(e,{to:"/about"},{default:o(()=>[f]),_:1}),l(a.$slots,"default")])}const h=s(u,[["render",i]]);export{h as default};
